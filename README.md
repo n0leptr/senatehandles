@@ -1,4 +1,5 @@
 [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/dejesusg/senatehandles.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/dejesusg/senatehandles/context:python)
+
 I want to write a program that can do sentiment analysis on US Senator tweets.
 
 For now I've built a way to scrape a website to get twitter handles -> `parse.py`
